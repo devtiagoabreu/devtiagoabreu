@@ -39,10 +39,3 @@
   
 ##
 
-🔭 Estou trabalhando em uma implantação de Sistema ERP chamado Systêxtil;
-🌱 Estou aprendendo DevOps;
-👯 Estou procurando colaborar em qualquer projeto interessante;
-🤔 Procuro ajuda com desenvolvimento odoo OpenSource;
-💬 Pergunte-me sobre qualquer coisa;
-📫 Como chegar até mim: eu chego até você;
--->
