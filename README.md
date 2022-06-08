@@ -1,4 +1,4 @@
-### 👋 Olá, meu nome é Tiago de Abreu sou criador de soluções... ajudo pessoas... vulgo "Desenvolvedor"... Dizem por aí que muitos querem minha cabeça, normal? Absolutamente, tendo em vista que existem pessoas que vivem à mercê dos dias, do tempo... Não tenho medo de errar e não tenho receio em dizer "não sei"... Acho muito legal ouvir e essêncial falar... Estou aqui para crescer, aprender sempre!  
+### ⚡ Olá, meu nome é Tiago de Abreu sou criador de soluções... ajudo pessoas... vulgo "Desenvolvedor"... Dizem por aí que muitos querem minha cabeça, normal? Absolutamente, tendo em vista que existem pessoas que vivem à mercê dos dias, do tempo... Não tenho medo de errar e não tenho receio em dizer "não sei"... Acho muito legal ouvir e essêncial falar... Estou aqui para crescer, aprender sempre!  
 
 ##
 
@@ -36,13 +36,13 @@
   ![Snake animation](https://github.com/devtiagoabreu/devtiagoabreu/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+  
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🔭 Estou trabalhando em uma implantação de Sistema ERP chamado Systêxtil;
+🌱 Estou aprendendo DevOps;
+👯 Estou procurando colaborar em qualquer projeto interessante;
+🤔 Procuro ajuda com desenvolvimento odoo OpenSource;
+💬 Pergunte-me sobre qualquer coisa;
+📫 Como chegar até mim: eu chego até você;
 -->
