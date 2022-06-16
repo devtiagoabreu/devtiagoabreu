@@ -1,4 +1,4 @@
-### ⚡ Olá, meu nome é Tiago de Abreu sou criador de soluções... ajudo pessoas... vulgo "Desenvolvedor"... Dizem por aí que muitos querem minha cabeça, normal? Absolutamente, tendo em vista que existem pessoas que vivem à mercê dos dias, do tempo... Não tenho medo de errar e não tenho receio em dizer "não sei"... Acho muito legal ouvir e essêncial falar... Estou aqui para crescer, aprender sempre!  
+### ⚡ Olá, meu nome é Tiago de Abreu sou criador de soluções...  
 
 ##
 
