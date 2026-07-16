@@ -59,10 +59,6 @@ Sou desenvolvedor Full-Stack, atualmente na **Atriostech**, onde crio soluções
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devtiagoabreu&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devtiagoabreu&theme=tokyonight&hide_border=true" alt="streak stats" />
 </p>
 
