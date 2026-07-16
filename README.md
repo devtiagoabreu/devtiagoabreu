@@ -69,9 +69,6 @@ Sou desenvolvedor Full-Stack, atualmente na **Atriostech**, onde crio soluções
 
 ---
 
-<p align="center">
-  <img src="https://github.com/devtiagoabreu/devtiagoabreu/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
 
 <p align="center">
   <i>Feel free to reach out — sempre aberto a novas conexões e projetos! ⚡</i>
